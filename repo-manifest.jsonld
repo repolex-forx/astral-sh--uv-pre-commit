@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/uv-pre-commit/commit/2e145a365871c9fef3715d38b9b7393ce4174c85",
       "git:hexsha": "2e145a365871c9fef3715d38b9b7393ce4174c85",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.13.0"
     },
     {
