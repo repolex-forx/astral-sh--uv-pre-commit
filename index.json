@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "uv-pre-commit",
+  "versions": [
+    {
+      "commit": "2e145a365871c9fef3715d38b9b7393ce4174c85",
+      "tag": "0.13.0",
+      "parsed_at": "2026-10-10T04:39:56.559974+00:00"
+    }
+  ]
+}
